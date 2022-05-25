@@ -1,0 +1,100 @@
+[ {
+  "baseItem" : {
+    "id" : "_IQiKgNsqEeyqEccjdMdqHQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "ETL_TRACK:_tyx5sNtzEeyeF6qCLHvSxQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_pRoM4NsqEeyqEccjdMdqHQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_rG7f0NtlEeyqEccjdMdqHQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_rG7f0NtlEeyqEccjdMdqHQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_QKNNUGZ8EeWm5YvsrIoYzQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DemoRoutines",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "GetRandomPhoneNum",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "SQLike",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_VWIlcNtDEeyqEccjdMdqHQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_gjG-oNpbEeyJY7XEumwmXw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_knexYNq7EeyJY7XEumwmXw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_tyx5sNtzEeyeF6qCLHvSxQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_pRoM4NsqEeyqEccjdMdqHQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_CviXwNuFEeyeF6qCLHvSxQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
